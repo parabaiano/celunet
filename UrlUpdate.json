@@ -4,7 +4,7 @@
     "UrlUpdate": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlSms.json",
     "EmailFeedback": "https://wa.me/message/M3UNG4X3QT5FN1",
-    "UrlContato": "https://wa.me/message/XAODUXWC6KSUO1",
+    "UrlContato": "https://www.speedtest.net/pt",
     "UrlTermos": "https://raw.githubusercontent.com/parabaiano/celunet/main/termos.html",
     "CheckUser": "true",
     "Udp": [
@@ -14,10 +14,10 @@
     ],
     "Servers": [
       {
-        "Name": "LPNconect 4G+",
+        "Name": "CeluNet 4G+",
         "TYPE": "premium",
         "FLAG": "br.png",
-        "ServerIP": "br.cactusdeveloper.host",
+        "ServerIP": "celunet.raiovpn.net",
         "CheckUser": "http://209.14.136.202:5454/checkUser",
         "ServerPort": "22",
         "SSLPort": "443",
