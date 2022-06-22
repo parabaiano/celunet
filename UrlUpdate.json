@@ -1,5 +1,5 @@
 {
-    "Version": "2.0.1",
+    "Version": "3.0.1",
     "ReleaseNotes": "Novos Provedores adicionados",
     "UrlUpdate": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlSms.json",
@@ -81,7 +81,7 @@
         "FLAG": "tim",
         "Payload": "GET wss://static.r4you.co  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
         "SNI": "static.r4you.co",
-        "TlsIP": "static.r4you.co",
+        "TlsIP": "104.21.27.243",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -91,7 +91,7 @@
         "FLAG": "tim",
         "Payload": "GET ws://static.r4you.co HTTP/1.1\nHost: [app_host_proxy]\nUpgrade: ws\n\n",
         "SNI": "static.r4you.co",
-        "TlsIP": "104.26.5.175",
+        "TlsIP": "104.21.27.243",
         "ProxyIP": "",
         "ProxyPort": "443",
         "Info": "Tlsws"
@@ -103,7 +103,7 @@
         "SNI": "emartim.com.br",
         "TlsIP": "",
         "ProxyIP": "104.21.27.243",
-        "ProxyPort": "",
+        "ProxyPort": "443",
         "Info": "Proxy"
       },
       {
@@ -113,7 +113,7 @@
         "SNI": "static.r4you.co",
         "TlsIP": "104.26.5.175",
         "ProxyIP": "",
-        "ProxyPort": "",
+        "ProxyPort": "443",
         "Info": "Tlsws"
       },
       {
@@ -123,7 +123,7 @@
         "SNI": "emartim.com.br",
         "TlsIP": "104.21.27.243",
         "ProxyIP": "",
-        "ProxyPort": "",
+        "ProxyPort": "443",
         "Info": "Proxy"
       },
       {
