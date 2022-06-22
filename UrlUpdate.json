@@ -1,5 +1,5 @@
 {
-    "Version": "5.0.3",
+    "Version": "6.0.4",
     "ReleaseNotes": "Novos Provedores adicionados",
     "UrlUpdate": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlSms.json",
@@ -34,7 +34,7 @@
         "TlsIP": "",
         "ProxyIP": "104.18.7.80",
         "ProxyPort": "443",
-        "Info": "Proxy"
+        "Info": "Tlsws"
       },
       {
         "Name": "VIVO [02]",
@@ -44,7 +44,7 @@
         "TlsIP": "",
         "ProxyIP": "104.24.10.16",
         "ProxyPort": "443",
-        "Info": "Proxy"
+        "Info": "Tlsws"
       },
       {
         "Name": "VIVO [03]",
@@ -53,7 +53,7 @@
         "SNI": "gedoc.vivo.com.br",
         "TlsIP": "104.18.7.80",
         "ProxyIP": "",
-        "ProxyPort": "80",
+        "ProxyPort": "443",
         "Info": "Tlsws"
       },
       {
