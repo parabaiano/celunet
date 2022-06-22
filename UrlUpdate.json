@@ -1,5 +1,5 @@
 {
-    "Version": "7.0.5",
+    "Version": "8.0.6",
     "ReleaseNotes": "Novos Provedores adicionados",
     "UrlUpdate": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlUpdate.json",
     "Sms": "https://raw.githubusercontent.com/parabaiano/celunet/main/UrlSms.json",
@@ -14,10 +14,10 @@
     ],
     "Servers": [
       {
-        "Name": "CeluNet 4G+",
+        "Name": "teste g1 4G+",
         "TYPE": "premium",
         "FLAG": "br.png",
-        "ServerIP": "celunet.raiovpn.net",
+        "ServerIP": "Br.cactusdeveloper.host",
         "CheckUser": "http://209.14.136.202:5454/checkUser",
         "ServerPort": "22",
         "SSLPort": "443",
